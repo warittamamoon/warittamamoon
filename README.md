@@ -1,12 +1,11 @@
-# Hi there, I'm Benz (Rei) 👋
+# Hi there, I'm Warit tamamoon (Benz) 👋
 ### Computer Engineering Student & Software Developer
 
-Welcome to my GitHub! I'm a second-year Computer Engineering student passionate about building practical applications and continuously expanding my tech stack. 
+Welcome to my GitHub! I'm a second-year Computer Engineering student at Rajamangala University of Technology Thanyaburi. 
 
 - 🎓 Currently studying Computer Engineering at RMUTT.
-- 💻 Building **MhaJot**, a personal Android expense-tracking app using **Dart** & **Flutter**.
-- 🌱 Studying Japanese (aiming for JLPT N3) for future software engineering roles in Japan.
-- 🎨 When I'm not coding, I'm usually drawing digital art (as *reikaku*) or playing badminton.
+- 💻 Building **MhaJot**, a personal Android expense-tracking app using **Dart** & **Flutter**(WIP).
+- 🎨 When I'm not coding, I'm usually drawing digital art too .
 
 ### 🛠️ Languages and Tools
 <p align="left">
