@@ -1,11 +1,13 @@
-# Hi there, I'm Warit tamamoon (Benz) 👋
+# Hi there, I'm Warit tamamoon (Benz)
 ### Computer Engineering Student & Software Developer
 
 Welcome to my GitHub! I'm a second-year Computer Engineering student at Rajamangala University of Technology Thanyaburi. 
 
 - 🎓 Currently studying Computer Engineering at RMUTT.
-- 💻 Building **MhaJot**, a personal Android expense-tracking app using **Dart** & **Flutter**(WIP).
+- 💻 Building **MhaJot**(unrelease), a personal Android expense-tracking app using **Dart** & **Flutter**(WIP).
 - 🎨 When I'm not coding, I'm usually drawing digital art too .
+
+#
 
 ### Languages and Tools
 <p align="left">
@@ -44,6 +46,8 @@ Welcome to my GitHub! I'm a second-year Computer Engineering student at Rajamang
   <img src="https://img.shields.io/badge/Qwen-6138F5?style=for-the-badge&logo=qwen&logoColor=white" />
   <img src="https://img.shields.io/badge/Nous_Hermes-000000?style=for-the-badge&logo=cpu&logoColor=white" />
 </p>
+
+#
 
 ###  GitHub Stats
 <p align="left">
