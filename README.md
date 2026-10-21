@@ -36,7 +36,16 @@ Welcome to my GitHub! I'm a second-year Computer Engineering student at Rajamang
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
 
-### 📊 GitHub Stats
+###  AI & LLM Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qwen-6138F5?style=for-the-badge&logo=qwen&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nous_Hermes-000000?style=for-the-badge&logo=cpu&logoColor=white" />
+</p>
+
+###  GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=warittamamoon&show_icons=true&theme=tokyonight" alt="warittamamoon's GitHub stats" />
 </p>
