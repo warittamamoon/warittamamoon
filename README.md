@@ -48,8 +48,3 @@ Welcome to my GitHub! I'm a second-year Computer Engineering student at Rajamang
 </p>
 
 #
-
-###  GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=warittamamoon&show_icons=true&theme=tokyonight" alt="warittamamoon's GitHub stats" />
-</p>
