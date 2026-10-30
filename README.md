@@ -3,7 +3,7 @@
 
 Welcome to my GitHub! I'm a second-year Computer Engineering student at Rajamangala University of Technology Thanyaburi. 
 
-- 🎓 Currently studying Computer Engineering at RMUTT.
+- 🎓 Currently studying Computer Engineering at RMUTT (116810462016-0).
 - 💻 Building **MhaJot**(unrelease), a personal Android expense-tracking app using **Dart** & **Flutter**(WIP).
 - 🎨 When I'm not coding, I'm usually drawing digital art too .
 
